@@ -10,6 +10,9 @@
   "features": {
     "edit_prediction_provider": "zed"
   },
+  "edit_predictions": {
+    "mode": "subtle"
+  },
   "language_models": {
     "openai": {
       "version": "1",
